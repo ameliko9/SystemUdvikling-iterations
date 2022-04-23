@@ -1,0 +1,12 @@
+{
+    "Sund" : {
+        ...,
+        Rooms : {
+            "Room1" : Ledig, ...,
+            "Room2" : Optaget,
+            ...,
+            "RoomN" : Ledig
+        },
+        ...
+    }
+}
