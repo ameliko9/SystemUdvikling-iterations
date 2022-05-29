@@ -1,3 +1,6 @@
+from HIMSBookingSystem.Model.roomavailability import RoomAvailability
+
+
 class Room:
     def __init__(self, id, capacity, campus, calendar, availability=RoomAvailability.Available):
         self.id = id

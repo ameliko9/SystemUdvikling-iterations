@@ -1,5 +1,11 @@
 import unittest
-from src.models import Teacher, Room, Course, Employee, BookingManager, Weekday
+
+from HIMSBookingSystem.Model.bookingmanager import BookingManager
+from HIMSBookingSystem.Model.course import Course
+from HIMSBookingSystem.Model.employee import Employee
+from HIMSBookingSystem.Model.room import Room
+from HIMSBookingSystem.Model.teacher import Teacher
+
 
 t1 = Teacher(1, "Sofie", "Rasmussen", "SCIENCE", "SI", "Systemudvikling", 0)
 t2 = Teacher(2, "Mette", "Olsen", "SUND", "SI", "Sygdomslærer", 4)
