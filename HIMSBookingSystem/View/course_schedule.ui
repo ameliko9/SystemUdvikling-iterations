@@ -43,6 +43,45 @@ background-color: qlineargradient(spread:pad, x1:0.0348259, y1:1, x2:1, y2:0, st
       <string>HIMS</string>
      </property>
     </widget>
+    <widget class="QPushButton" name="pushButton_2">
+     <property name="geometry">
+      <rect>
+       <x>380</x>
+       <y>150</y>
+       <width>421</width>
+       <height>91</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Skema</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="pushButton_3">
+     <property name="geometry">
+      <rect>
+       <x>380</x>
+       <y>240</y>
+       <width>421</width>
+       <height>91</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>PushButton</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="pushButton_4">
+     <property name="geometry">
+      <rect>
+       <x>380</x>
+       <y>330</y>
+       <width>421</width>
+       <height>91</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>PushButton</string>
+     </property>
+    </widget>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">

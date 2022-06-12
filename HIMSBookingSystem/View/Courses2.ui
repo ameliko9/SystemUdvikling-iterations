@@ -128,8 +128,8 @@ background-color: rgb(201, 182, 182);
     <widget class="QPushButton" name="pushButton_11">
      <property name="geometry">
       <rect>
-       <x>10</x>
-       <y>280</y>
+       <x>350</x>
+       <y>340</y>
        <width>471</width>
        <height>71</height>
       </rect>
@@ -146,8 +146,8 @@ background-color: rgb(201, 182, 182);
     <widget class="QPushButton" name="pushButton_20">
      <property name="geometry">
       <rect>
-       <x>10</x>
-       <y>350</y>
+       <x>350</x>
+       <y>410</y>
        <width>471</width>
        <height>71</height>
       </rect>
@@ -164,8 +164,8 @@ background-color: rgb(201, 182, 182);
     <widget class="QPushButton" name="pushButton_19">
      <property name="geometry">
       <rect>
-       <x>10</x>
-       <y>200</y>
+       <x>350</x>
+       <y>260</y>
        <width>471</width>
        <height>81</height>
       </rect>
@@ -178,52 +178,6 @@ background-color: rgb(201, 182, 182);
      <property name="text">
       <string> 5100-B2-2E21;Python programmering til datavidenskab  </string>
      </property>
-    </widget>
-    <widget class="QFrame" name="verticalFrame">
-     <property name="geometry">
-      <rect>
-       <x>490</x>
-       <y>200</y>
-       <width>681</width>
-       <height>221</height>
-      </rect>
-     </property>
-     <property name="styleSheet">
-      <string notr="true"/>
-     </property>
-     <layout class="QVBoxLayout" name="verticalLayout">
-      <item>
-       <widget class="QPushButton" name="pushButton_12">
-        <property name="styleSheet">
-         <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
-        </property>
-        <property name="text">
-         <string>Kursus materiale </string>
-        </property>
-       </widget>
-      </item>
-      <item>
-       <widget class="QPushButton" name="pushButton_14">
-        <property name="styleSheet">
-         <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;
-</string>
-        </property>
-        <property name="text">
-         <string>Skema</string>
-        </property>
-       </widget>
-      </item>
-      <item>
-       <widget class="QPushButton" name="pushButton_13">
-        <property name="styleSheet">
-         <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
-        </property>
-        <property name="text">
-         <string>Studerende </string>
-        </property>
-       </widget>
-      </item>
-     </layout>
     </widget>
    </widget>
   </widget>
