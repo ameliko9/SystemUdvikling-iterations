@@ -5,7 +5,7 @@ from Controller.NewEmployeeGUI import NewEmployeeGUI
 from Controller.MainWindowDescriptionGUI import MainWindowDescriptionGUI
 from Controller.SearchEmployeeGUI import SearchEmployeeGUI
 
-
+# this code is taken for the example on GitHub
 class MainWindowGUI(QtWidgets.QMainWindow):
 
     def __init__(self):
